@@ -1,16 +1,6 @@
 using UnityEngine;
 
-public class ProductivityUnit : MonoBehaviour
+public class ProductivityUnit : Unit // replace MonoBehaviour with Unit
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }
